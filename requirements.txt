@@ -1,3 +1,5 @@
 streamlit
+torch
+transformers==4.57.1
 pillow
-requests
+pandas
